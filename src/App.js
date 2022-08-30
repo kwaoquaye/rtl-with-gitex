@@ -11,6 +11,7 @@ function App() {
       <Counter />
       <Counter />
       <small>first major release.. We went real public at this point</small>
+      <smal>another bug fix 😪</smal>
     </div>
   );
 }
