@@ -6,7 +6,11 @@ function App() {
   return (
     <div className="App">
       <Counter />
-      <small>some small bug fix maybe</small>
+      <Counter />
+      <Counter />
+      <Counter />
+      <Counter />
+      <small>first major release.. we went real public at this point</small>
     </div>
   );
 }
