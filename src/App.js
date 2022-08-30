@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <Counter />
+      <small>some small bug fix maybe</small>
     </div>
   );
 }
