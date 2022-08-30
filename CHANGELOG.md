@@ -1,3 +1,12 @@
+## 1.0.1 (2022-08-30)
+
+
+### Bug Fixes
+
+* :bug: some hotfix ([2318096](https://github.com/kwaoquaye/rtl-with-gitex/commits/2318096b554a6c1381d9db718ad3114d2e8cd4b9))
+
+
+
 # 1.0.0 (2022-08-30)
 
 

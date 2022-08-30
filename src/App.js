@@ -10,7 +10,7 @@ function App() {
       <Counter />
       <Counter />
       <Counter />
-      <small>first major release.. we went real public at this point</small>
+      <small>first major release.. We went real public at this point</small>
     </div>
   );
 }
